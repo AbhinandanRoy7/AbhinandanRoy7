@@ -1,3 +1,5 @@
+name: GitHub Snake Game
+
 on:
 
   # Schedule the workflow to run daily at midnight UTC
@@ -46,7 +48,7 @@ jobs:
 
       - name: Checkout Repository
 
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
 
 
@@ -84,7 +86,7 @@ jobs:
 
       - name: Deploy to Output Branch
 
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
 
         with:
 
