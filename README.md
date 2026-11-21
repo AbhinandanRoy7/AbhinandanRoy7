@@ -3,7 +3,7 @@
 <br><br>
 
 
-*# 💫 About Me:
+💫 About Me:
 Hi , I am Abhinandan<br>GenAI and ML developer
 
 # 💻 Tech Stack:
@@ -22,7 +22,6 @@ Hi, I am Abhinandan Roy<br>I am a student who wants to be an AI Developer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AbhinandanRoy7&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AbhinandanRoy7&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbhinandanRoy7&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
