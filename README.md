@@ -3,7 +3,6 @@
 <br><br>
 
 
-
 # 💫 About Me:
 Hi , I am Abhinandan<br>GenAI and ML developer
 
